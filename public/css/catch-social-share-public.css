@@ -1,0 +1,87 @@
+@CHARSET "UTF-8";
+
+.catch-social-sharing {
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+}
+
+.catch-social-sharing span {
+    display: inline-block;
+    font-size: 110%;
+}
+
+.catch-social-sharing span.top,
+.catch-social-sharing span.bottom {
+    width: 100%;
+}
+
+.catch-social-sharing span.right {
+    display: inline;
+}
+
+.catch-social-sharing .fa {
+    color: #fff;
+    font-size: 20px;
+    font-size: 1.25rem;
+    margin: 5px 4px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.catch-social-sharing-round .fa {
+    border-radius: 50%;
+    padding: 10px;
+    width: 40px;
+}
+
+.catch-social-sharing .fa:hover,
+.catch-social-sharing .fa:focus {
+   opacity: 0.8;
+}
+
+.catch-social-sharing:not(.catch-social-sharing-round) .fa {
+   padding: 14px;
+   text-shadow: 0 1px 0 rgba(0,0,0,.5);
+}
+
+.catch-social-sharing:not(.catch-social-sharing-round) .fa:before {
+    padding-right: 10px;
+        -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    -o-transition: .3s ease;
+    -ms-transition: .3s ease;
+    transition: .3s ease;
+}
+
+.catch-social-sharing:not(.catch-social-sharing-round) .fa:hover::before {
+    padding-right: 15px;
+}
+
+.catch-social-sharing .fa.fa-facebook {
+    background-color: #3b5998;
+}
+
+.catch-social-sharing .fa.fa-twitter {
+    background-color: #55acee;
+}
+
+.catch-social-sharing .fa.fa-linkedin {
+    background-color: #007bb5;
+}
+
+.catch-social-sharing .fa.fa-pinterest {
+    background-color: #cb2027;
+}
+
+.catch-social-sharing .fa.fa-xing {
+    background-color: #00605e;
+}
+
+.catch-social-sharing .fa.fa-reddit {
+    background-color: #ff5700;
+}
+
+.catch-social-sharing .fa.fa-whatsapp {
+    background-color: #4dc247;
+}

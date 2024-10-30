@@ -1,0 +1,501 @@
+# Copyright (C) 2018-2022 Catch Plugins
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Social Share\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2024-04-16 23:21+0545\n"
+"PO-Revision-Date: 2016-12-12 09:23-0500\n"
+"Last-Translator: Sakin Shrestha <info@catchplugins.com>\n"
+"Language-Team: Catch Plugins <info@catchplugins.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;esc_attr_e;esc_attr__;_nx;_x;"
+"esc_html_e;esc_html__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-catch-social-share-admin.php:109
+#: ../admin/class-catch-social-share-admin.php:110
+#: ../admin/partials/catch-social-share-admin-display.php:16
+msgid "Catch Social Share"
+msgstr ""
+
+#: ../admin/class-catch-social-share-admin.php:119
+msgid "Catch Social Sharing"
+msgstr ""
+
+#: ../admin/class-catch-social-share-admin.php:120
+#: ../admin/class-catch-social-share-admin.php:224
+#: ../admin/partials/dashboard.php:18
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-catch-social-share-admin.php:129
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:18
+msgid ""
+"Catch Social Share - Catch Social Share is a simple yet feature-rich social "
+"sharing WordPress plugin that adds social share buttons on your site. "
+"Provide your visitors an easier gateway to share your content in various "
+"social media platforms."
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:26
+msgid "Dashboard"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:27
+#: ../admin/partials/catch-social-share-admin-display.php:37
+#: ../admin/partials/catch-social-share-admin-display.php:110
+msgid "Features"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:28
+#: ../admin/partials/catch-social-share-admin-display.php:103
+msgid "Compare Table"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:42
+#: ../admin/partials/dashboard.php:41
+msgid "Social Share Buttons"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:43
+msgid ""
+"There are seven different social media platforms you can choose from - "
+"Facebook, Twitter, Pinterest, LinkedIn, Xing, Reddit, and Whatsapp. All of "
+"these social media platforms are on top when it comes to popularity and "
+"audience computation. Give your visitors an easy way to share your content "
+"in the most popular social media platforms."
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:47
+msgid "Social Icon Order and Position"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:48
+msgid ""
+"You can reorder and display social media icons the way you prefer. Also, "
+"you can choose where you want your social sharing buttons to be displayed. "
+"Display them elegantly either before or after the content. "
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:52
+msgid "Text before Sharing Buttons"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:53
+msgid ""
+"If you want to make your social sharing more informative, you can add texts "
+"as well. You can include the additional text either on right, left, top, or "
+"bottom of the social share buttons. "
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:57
+#: ../admin/partials/catch-social-share-admin-display.php:143
+msgid "Editable Social Sharing Button Texts"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:58
+msgid ""
+"If you’ve chosen not to display the social icons, then Catch Social Share "
+"empowers you with the editable share button text. You can individually "
+"customize the names for each of your social media streams. "
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:62
+#: ../admin/partials/catch-social-share-admin-display.php:151
+msgid "Sharing Links "
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:63
+msgid ""
+"There are various sections on your website where you might want to display "
+"the social share buttons. Therefore, sharing links will let you choose the "
+"website sections where you can display the social sharing buttons. Enable "
+"the buttons on posts, pages, media, products, projects, testimonials, "
+"featured contents, services, and more. "
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:67
+#: ../admin/partials/catch-social-share-admin-display.php:159
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:68
+msgid ""
+"Catch Social Share, the new social sharing WordPress plugin supports "
+"shortcode as well. With the plugin activated, you will be provided with the "
+"shortcode option. Simply copy and paste the shortcode [catch-social-share] "
+"directly into any post or page and enjoy displaying the social share "
+"buttons."
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:72
+#: ../admin/partials/catch-social-share-admin-display.php:175
+msgid "Lightweight"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:73
+msgid ""
+"Catch Social Share is an expedient WordPress plugin to display social "
+"sharing buttons that is extremely lightweight. It means you will not have "
+"to worry about your website getting slower because of the plugin."
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:77
+#: ../admin/partials/catch-social-share-admin-display.php:183
+msgid "Responsive Design"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:78
+msgid ""
+"Our new social sharing WordPress plugin comes with a responsive design, "
+"therefore, there is no need to strain about the plugin breaking your "
+"website."
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:82
+msgid "Compatible with all WordPress Themes"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:83
+msgid ""
+"Gutenberg Compatibility is one of the major concerns nowadays for every "
+"plugin developer. Our new Catch Social Share plugin has been crafted in a "
+"way that supports all the WordPress themes. The plugin functions smoothly "
+"on any WordPress theme."
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:86
+msgid "Incredible Support"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:87
+msgid ""
+"Catch Social Share comes with Incredible Support. Our plugin documentation "
+"answers most questions about using the plugin. If you’re still having "
+"difficulties, you can post it in our Support Forum."
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:96
+msgid "Get Catch Social Share Pro -"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:96
+msgid "Get It Here!"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:97
+msgid "You are currently using the free version of Catch Social Share."
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:98
+msgid ""
+"If you have purchased from catchplugins.com, then follow this link to the "
+"installation instructions (particularly step 1)."
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:111
+msgid "Free"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:112
+msgid "Pro"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:119
+msgid "Social  Share Buttons"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:127
+msgid "Social Icon Order and Position "
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:135
+msgid "Text Before Sharing Buttons"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:167
+msgid "Enable on Home Page"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:191
+msgid "Social Icon Customization Options"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:199
+msgid "Social Icon Style"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:208
+msgid "Padding Options"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:216
+msgid "Font Size"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:224
+msgid "Facebook App ID"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:233
+msgid "Social Count"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:241
+msgid "HTTP Enable Count"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:249
+msgid "Total Count"
+msgstr ""
+
+#: ../admin/partials/catch-social-share-admin-display.php:257
+msgid "Cache Setting"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:23
+msgid "Plugin Options Saved."
+msgstr ""
+
+#: ../admin/partials/dashboard.php:43
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:44
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:45
+msgid "Linkedin"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:46
+msgid "Pinterest"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:47
+msgid "Xing"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:48
+msgid "Reddit"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:49
+msgid "Whatsapp"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:55
+msgid "Show Icons"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:58
+msgid " Check to show social icon"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:60
+msgid "Checking this option will enable social share links."
+msgstr ""
+
+#: ../admin/partials/dashboard.php:102
+msgid "Drag the social icon to change the order. No need to save."
+msgstr ""
+
+#: ../admin/partials/dashboard.php:108
+msgid "Social Icon Position"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:119
+msgid "Set your desire position for social Icon."
+msgstr ""
+
+#: ../admin/partials/dashboard.php:124
+msgid "Text before Sharing buttons"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:132
+msgid "Text Position"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:143
+msgid "Set your desire text position for social Icon."
+msgstr ""
+
+#: ../admin/partials/dashboard.php:148
+msgid "Facebook Share button text"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:155
+msgid "Twitter Share button text"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:162
+msgid "Linkedin share button text"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:169
+msgid "Pinterest share button text"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:176
+msgid "Xing share button text"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:183
+msgid "Reddit share button text"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:191
+msgid "Whatsapp share button text"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:201
+msgid "Add Sharing Links"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:208
+#, php-format
+msgid " Auto display to %s"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:214
+msgid ""
+"Automatically adds the sharing links to the end of the selected post types."
+msgstr ""
+
+#: ../admin/partials/dashboard.php:219
+msgid "Reset Options"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:222
+msgid "Check to reset"
+msgstr ""
+
+#: ../admin/partials/dashboard.php:224
+msgid "Caution: Reset all settings to default."
+msgstr ""
+
+#: ../admin/partials/dashboard.php:229
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/partials/footer.php:4
+msgid "Catch Plugins"
+msgstr ""
+
+#: ../admin/partials/footer.php:9
+msgid "View Themes"
+msgstr ""
+
+#: ../admin/partials/footer.php:10
+msgid "View Plugins"
+msgstr ""
+
+#: ../admin/partials/footer.php:11
+msgid "Support"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:3
+msgid "Recommendations"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:8
+msgid "Premium Themes"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:9
+msgid ""
+"Check out our simple, clean and responsive Premium WordPress Themes that "
+"come with an array of crucial features with a superior functionality."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:9
+msgid "Check our premium themes."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:15
+msgid "Free Themes"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:16
+msgid ""
+"Check out our collection of Free WordPress Themes that are clean, simple "
+"and feature-rich."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:16
+msgid "Check our free themes."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:22
+msgid "Premium Plugins"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:23
+msgid ""
+"Check out our secured Premium WordPress Plugins to enhance and add extra "
+"functionalities to your website. An exceptional way to get the most out of "
+"WordPress!"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:23
+msgid "Check our premium plugins."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:31
+msgid "Free Plugins"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:32
+msgid ""
+"Check out our Free WordPress Plugins and get the taste of our service "
+"without affecting your wallet."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:33
+msgid "check our free plugins."
+msgstr ""
+
+#: ../catch-social-share.php:65
+#, php-format
+msgid ""
+"Sorry, Pro plugin is already active. No need to activate Free version. "
+"%1$s&laquo; Return to Plugins%2$s."
+msgstr ""
+
+#: ../catch-social-share.php:172
+msgid "Before Content"
+msgstr ""
+
+#: ../catch-social-share.php:173
+msgid "After Content"
+msgstr ""
+
+#: ../catch-social-share.php:180
+msgid "Left"
+msgstr ""
+
+#: ../catch-social-share.php:181
+msgid "Right"
+msgstr ""
+
+#: ../catch-social-share.php:182
+msgid "Top"
+msgstr ""
+
+#: ../catch-social-share.php:183
+msgid "Bottom"
+msgstr ""
